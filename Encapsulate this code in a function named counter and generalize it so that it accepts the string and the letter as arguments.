@@ -6,5 +6,5 @@ def counter(s, l):
     if thing == letter :
       count = count + 1
   print(count)
-counter ('banana', 'a')
+counter ('apple', 'a')
 counter ('program', 'p')
